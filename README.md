@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelWlodarczak, Experienced navigational officer with Chief Officer License and strong experience in maritime and offshore industry. 
+- 👋 Hi, I’m @michaelWlodarczak, Navigational officer with Chief Officer License and strong experience in maritime and offshore industry. 
   I'm ready to rearrange my career path and start new adventure in IT field. I enrolled myself into Java course and I have basic knowledge about SCRUM.
 - You can reach me: michael.wlodarczak@gmail.com
 
