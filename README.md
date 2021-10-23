@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @michaelWlodarczak, Navigational officer with Chief Officer License and strong experience in maritime and offshore industry. 
-  I'm ready to rearrange my career path and start new adventure in IT field. I enrolled myself into Java course in Software Development Academy. I have basic knowledge about SCRUM and mySQL.
+- 👋 Hi, I’m @michaelWlodarczak, I am an experienced navigational officer with Chief Officer License and strong
+experience in maritime and offshore industry. I graduated from Gdynia Maritime
+University with Master Engineer of Navigation diploma.
+
+In the meantime, I enrolled myself into Java development course in Software Development Academy - Java from scratch.
+Technologies I’m using:
+*Java
+*SQL
+*JDBC / Hibernate
+*Maven
+*HTML, CSS, basic JavaScript
+*Spring / Spring Boot
+I have knowledge about
+version control system (Git) and SCRUM methodology.
 - You can reach me: michael.wlodarczak@gmail.com
 
 <!---
